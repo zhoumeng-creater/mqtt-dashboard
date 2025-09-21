@@ -124,3 +124,7 @@ wheels/
 *.bmp
 *.tiff
 *.mp4
+
+# package-lock.json 或 yarn.lock（根据项目需要决定是否忽略）
+package-lock.json
+yarn.lock
